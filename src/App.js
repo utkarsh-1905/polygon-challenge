@@ -36,7 +36,7 @@ function App() {
                 fontWeight: "bold",
               }}
             >
-              Hello, World !! ,I am Utkarsh.
+              Hello World !! ,I am Utkarsh.
             </p>
             <p>I am gonna build the best dApp on the polygon network.</p>
             <p>Looking forward to learning alot from this course.</p>
